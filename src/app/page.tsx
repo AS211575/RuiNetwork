@@ -316,12 +316,8 @@ export default function Home() {
           </div>
           <div className={styles.contactGrid}>
             <div className={styles.card}>
-              <p className={styles.cardLabel}>Telegram</p>
-              <p className={styles.cardValue}>https://t.me/AS211575</p>
-            </div>
-            <div className={styles.card}>
               <p className={styles.cardLabel}>Email</p>
-              <p className={styles.cardValue}>fengrui@fengrui@asia</p>
+              <p className={styles.cardValue}>ruifeng@ruinet.work</p>
             </div>
           </div>
         </section>
