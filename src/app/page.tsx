@@ -217,14 +217,6 @@ export default function Home() {
               >
                 View on BGP.Tools
               </a>
-              <a
-                className={styles.secondaryLink}
-                href="https://t.me/AS211575"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Telegram Channel
-              </a>
             </div>
           </div>
           <div className={styles.heroCard}>
@@ -338,9 +330,6 @@ export default function Home() {
           <div className={styles.sectionHeader}>
             <h2>更多 | More</h2>
           </div>
-          <p>
-            The page is copied from <a href="https://net.zxinc.org/">ZXNET</a>.
-          </p>
           <p>
             <del>我太懒了。</del>
           </p>
